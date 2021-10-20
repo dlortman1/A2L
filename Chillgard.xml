@@ -637,7 +637,7 @@ Chillgard 5000 measures Rooms 16 &amp; 19 - Indoor room, Indoor unit, Outdoor ro
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Chillgard_RM6_Ch3_ODwall" />
+        <Component Name="Chillgard_RM6_Ch3_ODwall_1" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
